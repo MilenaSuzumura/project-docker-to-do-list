@@ -4,10 +4,6 @@ WORKDIR /app
 
 COPY node_modules.tar.gz ./
 
-RUN npm install
-
-COPY . .
-
 EXPOSE 3001
 
 ENTRYPOINT ["npm"]
