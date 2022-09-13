@@ -1,6 +1,6 @@
 FROM node:14
 
-WORKDIR /todo-app/back-end
+WORKDIR /app
 
 COPY node_modules.tar.gz ./
 
