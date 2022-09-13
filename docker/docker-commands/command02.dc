@@ -1,0 +1,3 @@
+docker network inspect bridge
+
+docker start 01container
