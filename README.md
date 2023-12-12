@@ -1,15 +1,15 @@
-# Project Docker Todo List
+# Project Docker To Do List
 
-Projeto focado em práticar os aprendizados de Docker do Módulo de Back-end, seção 1.
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+Docker To Do List é um projeto focado em práticar os comandos de Docker, criar containers e orquestrar os três containers utilizando o Docker compose.
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+<strong>OBS:</strong> ESSE PROJETO FOI DESENVOLVIDO NA TRYBE.
+<strong>OBS2:</strong> DESENVOLVI APENAS OS COMANDOS QUE ESTÃO NO DIRETÓRIO "docker-commands", OS DOCKERFILE E O DOCKER-COMPOSE. O RESTANTE FOI DESENVOLVIDO PELA TRYBE.
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+## Técnologias usadas
+* Docker
+* Docker cli
+* Dockerfile
+* Docker Compose
+
+## Exércicios
+<img alt="imagem-requisitos-do-projeto" src="/requisitos.png">
