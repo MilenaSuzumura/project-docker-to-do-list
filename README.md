@@ -1,4 +1,4 @@
-# Project Docker To Do List
+# Docker To Do List
 
 Docker To Do List é um projeto focado em práticar os comandos de Docker, criar containers e orquestrar os três containers utilizando o Docker compose.
 
